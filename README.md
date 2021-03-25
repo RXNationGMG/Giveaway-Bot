@@ -17,5 +17,6 @@ IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM Roblox Nati
 MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IF YOU DO NOT USE A COMMAND EVERY HALF AN HOUR ON REPL.IT HOSTING THE BOT DIES, CAN BE REVIVED BY RESTARTING IT``
 
-# Host On Repl.it
+# Host This Bot!
 [![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/ZeroDiscord/GiveawayBot)
+[![Remix On Glitch] (https://glitch.com/edit/#!/import/git?url=https%3A%2F%2Fgithub.com%2FRobloxNationGaming%2FGiveaway-Bot)
