@@ -8,7 +8,7 @@ module.exports.run = async (client, message, args) => {
 
     let invite = new Discord.MessageEmbed()
     .setTitle("Invite & Support Link!")
-    .addField("Invite Link", "[Click here to invite me](https://bit.ly/InviteZeroMusic)")
+    .addField("Invite Link", "[Click here to invite me](https://discord.com/api/oauth2/authorize?client_id=818865444328308736&permissions=8&scope=bot)")
     .addField("Support Server", "[Click to join support Server](https://discord.gg/AsK777PDSw)")
     .setTimestamp()
     .setFooter(`Requested by ${message.author.tag}`, client.user.displayAvatarURL())
