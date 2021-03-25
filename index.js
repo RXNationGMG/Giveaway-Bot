@@ -44,7 +44,7 @@ fs.readdir("./commands/", (_err, files) => {
 client.on("ready", () =>{
     console.log(`Logged in as ${client.user.tag}!`);
     client.user.setPresence({
-        status: "online",  //You can show online, idle....
+        status: "idle",  //You can show online, idle....
         game: {
             name: "Made By: RobloxNationGaming & My Prefix Is + M.prefix +",  //The message shown
             type: "PLAYING" //PLAYING: WATCHING: LISTENING: STREAMING:
