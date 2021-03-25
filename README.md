@@ -19,4 +19,4 @@ MAKE A NEW ONE USING MY TUTORIAL :D``**
 
 # Host This Bot!
 [![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/ZeroDiscord/GiveawayBot)
-[![Remix It On Glitch.com](https://glitch.com/edit/#!/import/git?url=https%3A%2F%2Fgithub.com%2FRobloxNationGaming%2FGiveaway-Bot)
+[![Remix It On Glitch](https://glitch.com/edit/#!/import/git?url=https%3A%2F%2Fgithub.com%2FRobloxNationGaming%2FGiveaway-Bot)
